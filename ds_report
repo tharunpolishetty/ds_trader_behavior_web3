@@ -42,6 +42,4 @@ the current sentiment regime:<br/>
   • Scale down or avoid trading during Neutral periods.<br/>
   • Monitor short build-up during Extreme Greed as a potential signal for mean reversion.
 
-The accompanying notebooks, CSV outputs, and Seaborn charts (saved in the outputs/ folder)
-provide full details of the implementation steps and visual analysis.
 """
